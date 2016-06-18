@@ -1,0 +1,5 @@
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\Matrix\bin\Debug\Matrix.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\Matrix\bin\Debug\Matrix.pdb
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\Matrix\obj\Debug\Matrix.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\Matrix\obj\Debug\Matrix.pdb

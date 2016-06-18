@@ -1,0 +1,6 @@
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\VersionAttribute\bin\Debug\VersionAttribute.exe.config
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\VersionAttribute\bin\Debug\VersionAttribute.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\VersionAttribute\bin\Debug\VersionAttribute.pdb
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\VersionAttribute\obj\Debug\VersionAttribute.csprojResolveAssemblyReference.cache
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\VersionAttribute\obj\Debug\VersionAttribute.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\02. Defining Classes - Part 2\VersionAttribute\obj\Debug\VersionAttribute.pdb

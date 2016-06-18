@@ -1,0 +1,15 @@
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\ObjectOrientedProgramming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\bin\Debug\_01.Defining_Classes_Part_1.exe.config
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\ObjectOrientedProgramming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\bin\Debug\_01.Defining_Classes_Part_1.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\ObjectOrientedProgramming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\bin\Debug\_01.Defining_Classes_Part_1.pdb
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\ObjectOrientedProgramming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\obj\Debug\01. Define class.csprojResolveAssemblyReference.cache
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\ObjectOrientedProgramming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\obj\Debug\_01.Defining_Classes_Part_1.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\ObjectOrientedProgramming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\obj\Debug\_01.Defining_Classes_Part_1.pdb
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\01. Defining Classes - Part 1\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\bin\Debug\_01.Defining_Classes_Part_1.exe.config
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\01. Defining Classes - Part 1\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\obj\Debug\_01.Defining_Classes_Part_1.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\01. Defining Classes - Part 1\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\obj\Debug\_01.Defining_Classes_Part_1.pdb
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\bin\Debug\_01.Defining_Classes_Part_1.exe.config
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\obj\Debug\_01.Defining_Classes_Part_1.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\obj\Debug\_01.Defining_Classes_Part_1.pdb
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\bin\Debug\_01.Defining_Classes_Part_1.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\bin\Debug\_01.Defining_Classes_Part_1.pdb
+C:\Users\liubo\OneDrive\TerelicAcademy\Homeworks\Object-Oriented-Programming\01. Defining-Classes-Part-1\01. Defining-Classes-Part-1\obj\Debug\01. Define class.csprojResolveAssemblyReference.cache

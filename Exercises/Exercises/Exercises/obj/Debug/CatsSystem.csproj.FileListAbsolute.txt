@@ -1,0 +1,6 @@
+C:\Users\liubo\OneDrive\TerelicAcademy\Exercises\Exercises\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\liubo\OneDrive\TerelicAcademy\Exercises\Exercises\Exercises\bin\Debug\Exercises.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Exercises\Exercises\Exercises\bin\Debug\Exercises.pdb
+C:\Users\liubo\OneDrive\TerelicAcademy\Exercises\Exercises\Exercises\obj\Debug\CatsSystem.csprojResolveAssemblyReference.cache
+C:\Users\liubo\OneDrive\TerelicAcademy\Exercises\Exercises\Exercises\obj\Debug\Exercises.exe
+C:\Users\liubo\OneDrive\TerelicAcademy\Exercises\Exercises\Exercises\obj\Debug\Exercises.pdb
